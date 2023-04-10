@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+}
+.Pri{
+    background-color: rgb(255, 241, 236);
+}
+.cabeçalho{
+    background-color: rgb(252, 240, 242);
+    width: 100%;
+    height: 13%;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+.Logo{
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+    margin-top: -24px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.Inicio{
+    
+    
+    float: left;
+    margin-top: 35px;
+    margin-left: 150px;
+    
+}
+.Sobre{
+    
+    
+    float: left;
+    margin-top: 35px;
+    margin-left: 150px;
+   
+}
+.Cardapio{
+    
+    
+    float: left;
+    margin-top: 35px;
+    margin-left: 150px;
+    
+}
+.Localizacao{
+   
+    float: left;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+.Contato{
+    
+   
+    float: left;
+    margin-top: 35px;
+    margin-left: 150px;
+   
+}
+.um{
+    position: fixed;
+}
+.ImgForma{
+    color: rgb(255,237 174);
+    height: 100px;
+    width: 100%;
+}
+.banner{
+    width: 100%;
+    height: 30%;
+    position: relative;
+    left: 1px;
+}
+.img1{
+    width: 25%;
+    height: 25%px;
+    z-index: 3;
+    float: right;
+    margin-top: -450px;
+    margin-right: 200px;
+    
+}
+.forma2{
+    background-color: rgb(253, 244, 213);;
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 8%;
+    z-index: -1;
+ 
+}
+.forma3{
+    background-color: rgb(253, 244, 213);;
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-top: 20%;
+    margin-right: 2%;
+    
+}
+.forma4{
+    background-color: rgb(255, 202, 202);
+    height: 500px;
+    width: 45%;
+    float: left; 
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.fonte{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 95%;
+    height: 5%;
+}
+.cardapio{
+    width: 50%;
+    height: 50%;
+    float: left;
+    margin-top: 120px;
+    margin-left: 25%;
+}
+.mapa{
+    float: right;
+    width: 50%;
+    height: 450px;
+    margin-top: 200px;
+    margin-right: 25%;
+    margin-bottom: 100px;
+    
+}
+
+.rodapé{
+    background-color: rgb(255, 159, 175);
+    width: 100%;
+    height: 70px;
+    float: right;
+
+}
+.tt:hover{
+    color: rgb(255, 252, 78);
+}
+.fa-twitter{
+    align: center;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+}
+.insta:hover{
+    color: rgb(255, 220, 247);
+}
+.fa-instagram{
+    width: 50px;
+    font-size: 30px;
+   
+}
+.text{
+    font-size: medium;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: #fde4e4;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 126, 126);
+}
+.Inicio:hover{
+    color: rgb(238, 82, 82);
+}
+.Sobre:hover{
+    color: rgb(238, 82, 82);
+}.Cardapio:hover{
+    color: rgb(238, 82, 82);
+}.Localizacao:hover{
+    color: rgb(238, 82, 82);
+}
+.Contato:hover{
+    color: rgb(238, 82, 82);
+}
+.contato{
+    float: left;
+}
+.social{
+    position: relative;
+    top: 20px;
+    float: right;
+}
+
